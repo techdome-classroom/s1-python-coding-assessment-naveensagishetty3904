@@ -35,7 +35,6 @@ map2 = [
     ["W", "W", "W", "L", "L"],
 ]
 
-print(count_islands(map1))  # Output: 1
-print(count_islands(map2))  # Output: 3
-
+print(count_islands(map1))  
+print(count_islands(map2))  
 
